@@ -1,2 +1,2 @@
 # MusExpress
-Pipeline de análises de RNA-seq para modelos murinos
+Pipeline de análises de downstream de RNA-seq para modelos murinos
