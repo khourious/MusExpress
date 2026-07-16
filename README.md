@@ -17,6 +17,8 @@ Não contém dados brutos, apenas scripts e fluxos de análise utilizados após 
    - Correlações com variáveis experimentais  
    - Visualizações gráficas (heatmaps, PCA, volcano plots) 
    - Análise de co-expressão (via CEMiTool)
+        - enriquecimento com Gene Ontoloty
+        - Interactoma feito com base dados do StringDB, filtrado para _mus musculus_
    - Estimativa de sequências virais:  
      - As leituras foram alinhadas contra o genoma viral para estimar a quantidade relativa de vírus sequenciado 
      - Esses valores foram contador com o featureCounts e normalizados com edgeR
